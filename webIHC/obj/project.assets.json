@@ -7858,11 +7858,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\0031432412009\\source\\repos\\webIHC\\webIHC\\webIHC.csproj",
+      "projectUniqueName": "C:\\Users\\0031432412009\\Desktop\\IHC\\webIHC\\webIHC.csproj",
       "projectName": "webIHC",
-      "projectPath": "C:\\Users\\0031432412009\\source\\repos\\webIHC\\webIHC\\webIHC.csproj",
+      "projectPath": "C:\\Users\\0031432412009\\Desktop\\IHC\\webIHC\\webIHC.csproj",
       "packagesPath": "C:\\Users\\0031432412009\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\0031432412009\\source\\repos\\webIHC\\webIHC\\obj\\",
+      "outputPath": "C:\\Users\\0031432412009\\Desktop\\IHC\\webIHC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

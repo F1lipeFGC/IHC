@@ -15,5 +15,13 @@ namespace webIHC.Data
         }
 
         public DbSet<Validacao_Form.Models.Denuncia> Denuncia { get; set; } = default!;
+        public DbSet<Validacao_Form.Models.Estabelecimento> Estabelecimento { get; set; } = default!;
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Estabelecimento>()
+                .HasKey(
+                p=> new { p.CnpjBasico, p.CnpjOrdem, p.CnpjDv});
+        }
     }
 }
